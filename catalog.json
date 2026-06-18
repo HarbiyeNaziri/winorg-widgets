@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-06-18T00:00:00Z",
+  "items": [
+    {
+      "id": "widget-clock-01",
+      "type": "Widget",
+      "name": "Analog Saat",
+      "description": "Masaüstünde anlık saat ve tarih bilgisi gösteren widget.",
+      "tier": "Free",
+      "version": "1.0.0",
+      "thumbnailUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Widgets/widget-clock-01.zip",
+      "tags": ["saat", "zaman", "tarih"],
+      "size": 0,
+      "sha256": ""
+    },
+    {
+      "id": "widget-weather-01",
+      "type": "Widget",
+      "name": "Hava Durumu",
+      "description": "Anlık ve 5 günlük hava durumu tahminleri.",
+      "tier": "Premium",
+      "version": "1.0.0",
+      "thumbnailUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Widgets/widget-weather-01.zip",
+      "tags": ["hava", "sicaklik", "tahmin"],
+      "size": 0,
+      "sha256": ""
+    },
+    {
+      "id": "widget-calendar-01",
+      "type": "Widget",
+      "name": "Takvim",
+      "description": "Aylık takvim görünümü ve etkinlik takibi.",
+      "tier": "Free",
+      "version": "1.0.0",
+      "thumbnailUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Widgets/widget-calendar-01.zip",
+      "tags": ["takvim", "etkinlik", "tarih"],
+      "size": 0,
+      "sha256": ""
+    },
+    {
+      "id": "tool-cleaner-01",
+      "type": "Tool",
+      "name": "Disk Temizleyici",
+      "description": "Gecici dosyaları ve onbelleği temizleyen sistem aracı.",
+      "tier": "Free",
+      "version": "1.0.0",
+      "thumbnailUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Tools/tool-cleaner-01.zip",
+      "tags": ["disk", "temizlik", "sistem"],
+      "size": 0,
+      "sha256": ""
+    },
+    {
+      "id": "tool-sysinfo-01",
+      "type": "Tool",
+      "name": "Sistem Bilgisi",
+      "description": "CPU, RAM, disk ve ag bilgilerini detaylı gösteren arac.",
+      "tier": "Premium",
+      "version": "1.0.0",
+      "thumbnailUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Tools/tool-sysinfo-01.zip",
+      "tags": ["sistem", "donanim", "bilgi"],
+      "size": 0,
+      "sha256": ""
+    },
+    {
+      "id": "wallpaper-forest-01",
+      "type": "Wallpaper",
+      "name": "Orman Sabahi",
+      "description": "Huzur veren yesil orman sabahi arka plani.",
+      "tier": "Free",
+      "version": "1.0.0",
+      "thumbnailUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Wallpapers/wallpaper-forest-01-thumb.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Wallpapers/wallpaper-forest-01.jpg",
+      "tags": ["orman", "doga", "yesil"],
+      "size": 0,
+      "sha256": ""
+    },
+    {
+      "id": "wallpaper-city-01",
+      "type": "Wallpaper",
+      "name": "Sehir Silueti",
+      "description": "Gece vakti sehir silueti, neon isiklar.",
+      "tier": "Premium",
+      "version": "1.0.0",
+      "thumbnailUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Wallpapers/wallpaper-city-01-thumb.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/HarbiyeNaziri/WinOrg-widgets/main/Wallpapers/wallpaper-city-01.jpg",
+      "tags": ["sehir", "gece", "modern"],
+      "size": 0,
+      "sha256": ""
+    }
+  ]
+}
